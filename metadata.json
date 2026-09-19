@@ -1,0 +1,8 @@
+{
+  "name": "Remix Kashfi Bro Holdings - Fuel Management System",
+  "description": "Secured executive fuel station management system with role-based PIN access, station investments, nozzle audits, partner profit & withdrawals, AI dashboard anomaly detection, dedicated Market Pulse intelligence tab, and multi-theme design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
