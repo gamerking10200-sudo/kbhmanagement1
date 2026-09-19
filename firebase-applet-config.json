@@ -1,11 +1,9 @@
 {
-  "projectId": "circular-condition-zlxdt",
-  "appId": "1:389930071009:web:1f71e0fe5041da2ab618a0",
-  "apiKey": "AIzaSyCIIJd3A6lXKnecuJBq_Oa0CBhWizIaz7U",
-  "authDomain": "circular-condition-zlxdt.firebaseapp.com",
-  "storageBucket": "circular-condition-zlxdt.firebasestorage.app",
-  "messagingSenderId": "389930071009",
-  "measurementId": "",
-  "oAuthClientId": "389930071009-b230d51kqao0thdq6a88fev4os99bc16.apps.googleusercontent.com",
-  "recaptchaSiteKey": ""
-}
+  apiKey: "AIzaSyDi50Ms9xg8yljqwIKKPQtV9SQjWYtp5H0",
+  authDomain: "kbh-mgmt.firebaseapp.com",
+  projectId: "kbh-mgmt",
+  storageBucket: "kbh-mgmt.firebasestorage.app",
+  messagingSenderId: "626803463353",
+  appId: "1:626803463353:web:22a60f3dedb91bada17768",
+  measurementId: "G-TK8BXFHZNJ"
+};
